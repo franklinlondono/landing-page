@@ -66,9 +66,17 @@ const AboutMe = () => {
                         Mis principios se basan en el respeto, la honestidad y el cumplimiento, lo que respalda mis deseos de superación. 
                     </p>
 
-                    <Button>
-                        <Phone size={20} className="mr-2" />Hablamos
-                    </Button>
+                     
+                    <a
+                        href="https://wa.me/573124941271?text=Hola%20Franklin,%20vi%20tu%20portafolio%20y%20quiero%20hablar%20contigo"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <Button>
+                        <Phone size={20} className="mr-2" />
+                        Hablamos
+                        </Button>
+                    </a>
                 </div>
             </div>
         </div>
