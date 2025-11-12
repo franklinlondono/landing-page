@@ -29,7 +29,7 @@ const AboutMe = () => {
                         orientation="vertical"
                         className="w-full max-w-xs h-fit"
                     >
-                        <CarouselContent className="-mt-1 h-[200px] md:h-[200px] lg:h-[400px]">
+                        <CarouselContent className="-mt-1 h-[400px] md:h-[400px] lg:h-[400px]">
                             {dataSlider.map((data) => (
                                 <CarouselItem key={data.id}>
                                     <div className="flex items-center justify-center">
