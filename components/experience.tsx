@@ -19,7 +19,7 @@ const Experience = () => {
                                         <BadgeCheck />{item.name}
                                     </p>
                                     <p className="text-gray-400 mb-2">{item.subtitle}</p>
-                                    <Progress value={item.value} className="w-[60%]" />
+                                    {/* <Progress value={item.value} className="w-[60%]" /> */}
                                 </div>
                             ))}
                         </div>
