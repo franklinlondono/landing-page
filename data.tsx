@@ -395,7 +395,7 @@ export const dataCourses = [
     name: "Fundamentos Power BI",
     institution: "Santander Open Academy",
     description: "análisis de datos con Power BI: importa, analiza y visualiza datos, y aprende a optimizar su presentación con el editor de Power Query.",
-    imageUrl: "/logo-soa.svg",
+    imageUrl: "/logo-openacademy.jpg",
     status: "Finalizado",
   },
   {
