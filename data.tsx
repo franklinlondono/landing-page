@@ -392,6 +392,14 @@ export const dataCourses = [
   },
   {
     id: 4,
+    name: "Fundamentos Power BI",
+    institution: "Santander Open Academy",
+    description: "análisis de datos con Power BI: importa, analiza y visualiza datos, y aprende a optimizar su presentación con el editor de Power Query.",
+    imageUrl: "/logo-soa.svg",
+    status: "Finalizado",
+  },
+  {
+    id: 5,
     name: "Actualización Angular",
     institution: "Udemy",
     description: "Domina Angular y crea aplicaciones web del mundo real con TypeScript, Firebase, Firestore, JWT y más.",
